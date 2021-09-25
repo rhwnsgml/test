@@ -9,6 +9,7 @@ function clickBtn2(){
     var cnt = 1;
     test.forEach(element => {
         element.innerText= cnt++;
+        //
     });
 }
 
